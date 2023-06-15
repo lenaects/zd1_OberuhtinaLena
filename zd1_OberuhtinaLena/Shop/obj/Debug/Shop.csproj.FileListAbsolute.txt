@@ -1,0 +1,21 @@
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Shop\obj\Debug\Shop.Form1.resources
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Shop\bin\Debug\Shop.exe.config
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Shop\bin\Debug\Shop.exe
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Shop\bin\Debug\Shop.pdb
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Shop\obj\Debug\Shop.exe
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Shop\obj\Debug\Shop.pdb
+C:\Users\79193\Desktop\семестр2_2 курс\ychebnaipractmirosha\zd1_OberuhtinaLena\Shop\bin\Debug\Shop.exe.config
+C:\Users\79193\Desktop\семестр2_2 курс\ychebnaipractmirosha\zd1_OberuhtinaLena\Shop\bin\Debug\Shop.exe
+C:\Users\79193\Desktop\семестр2_2 курс\ychebnaipractmirosha\zd1_OberuhtinaLena\Shop\bin\Debug\Shop.pdb
+C:\Users\79193\Desktop\семестр2_2 курс\ychebnaipractmirosha\zd1_OberuhtinaLena\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+C:\Users\79193\Desktop\семестр2_2 курс\ychebnaipractmirosha\zd1_OberuhtinaLena\Shop\obj\Debug\Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\79193\Desktop\семестр2_2 курс\ychebnaipractmirosha\zd1_OberuhtinaLena\Shop\obj\Debug\Shop.Form1.resources
+C:\Users\79193\Desktop\семестр2_2 курс\ychebnaipractmirosha\zd1_OberuhtinaLena\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\79193\Desktop\семестр2_2 курс\ychebnaipractmirosha\zd1_OberuhtinaLena\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\79193\Desktop\семестр2_2 курс\ychebnaipractmirosha\zd1_OberuhtinaLena\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\79193\Desktop\семестр2_2 курс\ychebnaipractmirosha\zd1_OberuhtinaLena\Shop\obj\Debug\Shop.exe
+C:\Users\79193\Desktop\семестр2_2 курс\ychebnaipractmirosha\zd1_OberuhtinaLena\Shop\obj\Debug\Shop.pdb

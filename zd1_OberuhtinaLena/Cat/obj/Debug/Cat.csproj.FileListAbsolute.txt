@@ -1,0 +1,7 @@
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Cat\obj\Debug\Cat.csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Cat\obj\Debug\Cat.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Cat\bin\Debug\Cat.exe.config
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Cat\bin\Debug\Cat.exe
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Cat\bin\Debug\Cat.pdb
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Cat\obj\Debug\Cat.exe
+C:\Users\305-8\Desktop\oberuhtinapr21\zd1_OberuhtinaLena\Cat\obj\Debug\Cat.pdb
